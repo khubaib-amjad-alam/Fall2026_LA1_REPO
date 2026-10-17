@@ -1,4 +1,4 @@
-# Fall2026_LA1_REPO
+ Fall2026_LA1_REPO
 
 Starter project for Lab Assignment 1 - Software Evolution and Maintenance (0103441).
 
